@@ -6,8 +6,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Shipra!">
 </h1> -->
 
-<h2 align="left">👩‍💻 About Me :</h2>
-<!-- ## 👩‍💻 About Me : -->
+<h3 align="left">👩‍💻 About Me :</h3>
 
 <div>
   <img align="right" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif" width="400"/>
@@ -23,8 +22,7 @@
 </div>
 <div align="left"><img src="https://komarev.com/ghpvc/?username=priyanshu054&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu054" /></div><br>
 
-<!-- <h3 align="left">🛠 Language and Tools :</h3> -->
-## 🛠 Language and Tools :
+<h2 align="left">🛠 Language and Tools :</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
@@ -58,8 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
 </div><br>
 
-<!-- <h3 align="left">📧 Lets Connect :</h3> -->
-## 📧 Lets Connect :
+<h2 align="left">📧 Lets Connect :</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/priyanshu054">
@@ -79,8 +76,7 @@
   </a>
 </div><br>
 
-<!-- <h3 align="left">📊 GitHub Stats :</h3> -->
-## 📊 GitHub Stats :
+<h2 align="left">📊 GitHub Stats :</h2>
 <div>
   <div align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu054&layout=compact&theme=radical&custom_title=Languages"/>
