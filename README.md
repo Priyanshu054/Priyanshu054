@@ -1,23 +1,25 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi 👋, I'm Priyanshu Jha
-</h1>
-
-<!-- <h1 align= "center">
-   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Shipra!">
 </h1> -->
 
-<h3 align="left">👩‍💻 About Me :</h3>
+<div align= "center">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Priyanshu!">
+</div>
+
+<h2 align="left">👩‍💻 About Me :</h2>
 
 <div>
   <img align="right" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif" width="400"/>
 
   <p align="left">
-    I'm Priyanshu Jha, a passionate software developer from Gwalior. Always eager to learn and explore new technologies.<br><br>
-    - 🎓 Currently pursuing my B.Tech at Madhav Institute of Technology, Gwalior.<br>
-    - 🌱 Passionate about learning and exploring new technologies.<br>
-    - 💻 Currently working on JavaScript to enhance my skills in Web Development.<br>
-    - ⚡ In my free time, I enjoy playing Chess, Badminton, watching Sci-Fi Movies, and I'm always open to new tech collaborations.<br>
-    - 💬 Let's connect and chat about coding, tech, or any collaborative opportunities!
+    I'm Priyanshu Jha, a dedicated and passionate software developer from Gwalior. My journey in technology is driven by an insatiable curiosity and a relentless desire to learn and innovate.
+    <ul>
+    <li>🎓 I have completed my B.Tech at Madhav Institute of Technology, Gwalior.</li>
+    <li>🌱 Currently delving into the realms of Artificial Intelligence and Machine Learning, always eager to expand my knowledge and skillset.</li>
+    <li>💻 I have a strong foundation in JavaScript and am now exploring advanced web development techniques.</li>
+    <li>⚡ In my leisure time, I enjoy playing Chess and Badminton, watching Sci-Fi movies, and I'm always open to exciting new tech collaborations.</li>
+    <li>💬 Let's connect and discuss coding, technology, or any collaborative opportunities that spark innovation!</li>
+    </ul>
   </p>
 </div>
 <div align="left"><img src="https://komarev.com/ghpvc/?username=priyanshu054&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu054" /></div><br>
