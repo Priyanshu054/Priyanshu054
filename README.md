@@ -3,7 +3,7 @@
 </h1> -->
 
 <div align= "center">
-   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Priyanshu!">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=750&height=100&lines=I'm+Priyanshu!">
 </div>
 
 <h2 align="left">👩‍💻 About Me :</h2>
@@ -12,16 +12,18 @@
   <img align="right" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif" width="400"/>
 
   <p align="left">
-    I'm Priyanshu Jha, a dedicated and passionate software developer from Gwalior. My journey in technology is driven by an insatiable curiosity and a relentless desire to learn and innovate.
+    Hi, I'm Priyanshu Jha, a passionate AI and Machine Learning enthusiast from Gwalior. My journey in technology is fueled by curiosity and a drive to solve real-world challenges with AI-driven solutions.
     <ul>
-    <li>🎓 I have completed my B.Tech at Madhav Institute of Technology, Gwalior.</li>
-    <li>🌱 Currently delving into the realms of Artificial Intelligence and Machine Learning, always eager to expand my knowledge and skillset.</li>
-    <li>💻 I have a strong foundation in JavaScript and am now exploring advanced web development techniques.</li>
-    <li>⚡ In my leisure time, I enjoy playing Chess and Badminton, watching Sci-Fi movies, and I'm always open to exciting new tech collaborations.</li>
-    <li>💬 Let's connect and discuss coding, technology, or any collaborative opportunities that spark innovation!</li>
+    <li>🎓 Completed B.Tech in Internet of Things at Madhav Institute of Technology & Science, Gwalior.</li>
+    <li>🤖 Passionate about Large Language Models (LLMs), Natural Language Processing (NLP), and Deep Learning (DL).</li>
+    <li>💻 Proficient in Python, C++, JavaScript, Flask, and frameworks like TensorFlow, OpenCV, and Scikit-learn.</li>
+    <li>🚀 Built AI-powered projects, including Sign Language Recognition, Forest Fire Prediction, and E-commerce Log Analysis.</li>
+    <li>⚡ In my leisure time, I enjoy Chess, Badminton, and Sci-Fi movies while exploring the latest AI innovations.</li>
+    <li>💬 Open to collaborating on AI research, ML applications, and innovative tech projects.</li>
     </ul>
   </p>
 </div>
+
 <div align="left"><img src="https://komarev.com/ghpvc/?username=priyanshu054&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu054" /></div><br>
 
 <h2 align="left">🛠 Language and Tools :</h2>
